@@ -1,0 +1,2 @@
+Quick and dirty script to log onewire temperature sensors to Influxdb.
+
